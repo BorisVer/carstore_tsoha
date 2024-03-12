@@ -1,6 +1,6 @@
 # tsoha
 
-Nettiauton tyylinen haku 
+Nettiauton tyylinen haku (https://www.nettiauto.com/)
 - voi kirjautu sisään ja ulos sekä tehdä uusi käyttäjä
 - voi etsiä auton merkin, mallin, vuoden jns avulla
 - voi laittaa autoja myyntiin ja poistaa myynnistä
