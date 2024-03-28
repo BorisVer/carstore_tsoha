@@ -9,4 +9,5 @@ Nettiauton tyylinen haku (https://www.nettiauto.com/). Sivulla voi tehdä myynti
 - voi valita järjestyksen (hinta, vuosimalli, mittarilukema)
 - voi antaa # kuten #edullinen, joille löytyy oma haku
 - voi käyttäjälle tallentaa haun tai tykätä ilmoituksesta joka löytyy takas helposti
+- testi
 
