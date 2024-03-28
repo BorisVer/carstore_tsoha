@@ -1,0 +1,124 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+
+<div class="content">
+
+<h1>Car Store</h1>
+
+
+<h2>Look for a car</h2>
+
+<div class="search">
+<form action="." method="post">
+
+  <label for="brand">Brand:</label>
+
+  <select id="brand_selector" name="brand_selector" onchange="document.getElementById('selected_brand').value = this.value">
+    <option value="All Brands" selected>All Brands</option>
+    {% for letter in 'abcdefghijklmnoprstv' %}
+      <optgroup label="{{ letter.upper() }}">
+        {% for brand in brands %}
+          {% if brand.lower().startswith(letter) %}
+            <option value="{{ brand }}">{{ brand }}</option>
+          {% endif %}
+        {% endfor %}
+      </optgroup>
+    {% endfor %}
+    <option value="Unknown">Unknown</option>
+  </select>
+
+
+  <script type="text/javascript">
+    document.getElementById('brand_selector').value = "{{ selected_brand }}";
+  </script>
+
+
+  <button type="submit" name="submit_brand">Search available models</button>
+</form>
+
+<form action="." method="post">
+
+  <label for="model">Model:</label>
+
+  <input type="hidden" id="selected_model" name="selected_model"> 
+
+  <select id="model_selector" name="model_selector">
+    <option value="All Models" selected>All Models</option>
+      {% for model in models %}
+      <option value="{{ model }}">{{ model }}</option>
+      {% endfor %}
+  </select>
+  <input type="hidden" name="selected_brand" value="{{ selected_brand }}">
+
+  <br>
+
+<label for="minPrice">Price:</label>
+<input type="number" id="minprice" name="minprice" min="0"> - <input type="number" id="maxprice" name="maxprice" min="0">
+
+<label for="year">Year:</label>
+<input type="number" id="minyear" name="minyear" min="1885" max="2025"> - <input type="number" id="maxyear" name="maxyear" max="2025" min="1885">
+
+<label for="mileage">Mileage:</label>
+<input type="number" id="minmileage" name="minmileage" min="0" max="999999"> - <input type="number" id="maxmileage" name="maxmileage" max="999999" min="0">
+
+
+
+<label for="gas">Gas type:</label>
+<select id="gas_selector" name="gas_selector">
+  <option value="" selected></option>
+  <option value="Gasoline">Gasoline</option>
+  <option value="Diesel">Diesel</option>
+  <option value="Hybrid">Hybrid</option>
+  <option value="Electric">Electric</option>
+</select>
+
+<label for="drive">Drive Train:</label>
+<select id="drive_selector" name="drive_selector">
+  <option value="" selected></option>
+  <option value="Rear Wheel Drive">Rear Wheel Drive</option>
+  <option value="Front Wheel Drive">Front Wheel Drive</option>
+  <option value="All Wheel Drive">All Wheel Drive</option>
+</select>
+
+<label for="transmition">Transmition:</label>
+<select id="transmition_selector" name="transmition_selector">
+  <option value="" selected></option>
+  <option value="Manual">Manual</option>
+  <option value="Automatic">Automatic</option>
+</select>
+
+<br>
+
+<br>
+<button type="submit" name="submit_all">Search</button>
+</form>
+</div>
+</div>
+<div class="links">
+
+{% if session.username %}
+<p>Your logged in as {{ session.username }}</p>
+<a href="/logout">Log out</a><br>
+<a href="/addinfo">Change info</a><br>
+<a href="/addcars">Add your car for sale</a> <br>
+{% else %}
+<p>Login to make a listing</p>
+{% if error %}
+<p>{{ error }}</p>
+{% endif %}
+<form action="/login" method="POST">
+<p>Username:<br>
+<input type="text" name="username"></p>
+<p>Password:<br>
+<input type="password" name="password"></p>
+<input type="submit" value="Log in"> 
+</form><br>
+<a href="/makeuser">Make a new user</a>
+{% endif %}
+<br>
+
+</div>
+{% endblock %}

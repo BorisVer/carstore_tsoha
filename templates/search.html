@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<link rel="stylesheet" href="{{ url_for('static', filename='searchlistings.css') }}">
+
+
+{% if brand == False %}
+<h2> There are a total of {{ amount_of_listings }}</h2>
+{% else %}
+<h2>{{ brand }} {{ model }} has {{ amount_of_listings }} active listings</h2>
+{% endif %}
+{% for listing in all_listings %}
+  <div class="listing-box">
+    <a href="/listing/{{ listing[5] }}">{{ listing[0] }} {{ listing[1] }}</a>
+    <p>Price: {{ listing[4] }} €</p>
+    <img src="data:;base64,{{ listing[6] }}"/>
+    <p>Year: {{ listing[2] }}</p>
+    <p>Mileage: {{ listing[3] }}</p>
+  </div>
+{% endfor %}
+
+<div class="search">
+    <form method="post">
+      <label for="sortby">Sort By:</label>
+      <select id="sortby" name="sortby" >
+        <option value="pricedescending" selected>Price Descending</option>
+        <option value="priceascending">Price Ascending</option>
+        <option value="yeardescending">Year Descending</option>
+        <option value="yearascending">Year Ascending</option>
+        <option value="mileagedescending">Mileage Descending</option> 
+        <option value="mileageascending">Mileage Ascending</option>
+      </select>
+      <button type="submit" name="submit_sort">Sort</button>
+    </form>
+    </div>
+
+
+{% endblock %}

@@ -1,0 +1,59 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<link rel="stylesheet" href="{{ url_for('static', filename='listing.css') }}">
+
+<head>
+  <h2>{{ brand }} {{ model }}</h2>
+
+  <h3>{{ price }} €</h3>
+
+<div class="main-info">
+
+  <p>Year: {{ year }}</p>
+  <p>Motor: {{ engine }}L, {{ gas }}</p>
+
+  <p>Mileage: {{ mileage }} km</p>
+
+  <p>Drive Train: {{ drive }}</p>
+
+  <p>Transmition: {{ transmition }}</p>
+
+  <p>Condition: {{ condition }}</p>
+
+</div>
+
+{% for image in images %}
+<img src="data:;base64,{{ image }}" />
+{% endfor %}
+  <h4>Technical Info</h4>
+
+  <p>Register Number: {{ register }}</p>
+
+  <p>Horsepower: {{ horsepower}} hp</p>
+
+  <p>Torque: {{ torque }}</p>
+
+  <p>Weight: {{ weight }}</p>
+
+  <p>Seating Capacity: {{ seating }}</p>
+
+  <p>Door count: {{ door }}</p>
+
+
+  <p>Description: {{ description }}</p>
+
+  <h4>Seller Contacts</h4>
+
+  <p>{{ first }} {{ last }}</p>
+  <p>{{ email }}</p>
+  <p>{{ phone }}</p>
+
+
+  <a href="/">Go back to the start</a>
+
+
+  
+</head>
+{% endblock %}

@@ -1,0 +1,37 @@
+body {
+  margin: auto;
+  max-width:  350px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  background: rgb(173, 173, 171);
+  text-align: center;
+}
+
+.listing-box {
+  border: 1px solid #ddd; /* Add a border for definition */
+  padding: 1rem; /* Add some padding inside the box */
+  margin: 0.5rem 0; /* Add top and bottom margin between boxes */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  max-width: 350px;
+}
+
+.listing-box img {
+  max-width: 100%; /* Ensure images scale proportionally */
+  display: block; /* Make images behave like block elements for better layout */
+  margin-bottom: 0.5rem; /* Add some space below the image */
+  align-self: center;
+  margin: 0 auto;
+}
+
+.search {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 20px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  background-color: rgb(194, 209, 156);
+  border-radius: 5px;
+}

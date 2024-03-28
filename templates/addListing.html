@@ -1,0 +1,49 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h2>Add your listing</h2>
+
+<!-- use enctype="multipart/form-data" for the file data (image)
+Todo
+
+add placeholder="Esim."
+
+-->
+
+
+
+<form method="post" enctype="multipart/form-data">
+Brand:<input type="text" name="brand"><br>
+Model:<input tye="text" name="model"><br>
+Year:<input type="number" name="year"><br>
+Mileage:<input type="number" name="mileage"><br>
+Price:<input type="number" name="price"><br>
+Horsepower:<input tye="number" name="horsepower"> <br>
+Torque:<input tye="number" name="torque"> <br>
+Engine size: <input tye="number" name="engine"> <br>
+Register number:<input tye="text" name="register"> <br>
+Weight:<input tye="number" name="weight"> <br>
+Seating capacity:<input tye="number" name="seating"> <br>
+Door count:<input tye="number" name="door"> <br>
+Drive Train: <br>
+<input type="radio" name="drive" value='Rear Wheel Drive' checked> Rear Wheel Drive
+<input type="radio" name="drive" value='Front Wheel Drive'> Front Wheel Drive
+<input type="radio" name="drive" value='All Wheel Drive'> All Wheel Drive <br>
+Gas Type: <br>
+<input type="radio" name="gas" value='Gasoline' checked> Gasoline
+<input type="radio" name="gas" value='Diesel'> Diesel
+<input type="radio" name="gas" value='Hybrid'> Hybrid
+<input type="radio" name="gas" value='Electric'> Electric <br>
+Transmition: <br>
+<input type="radio" name="transmition" value='Manual' checked> Manual
+<input type="radio" name="transmition" value='Automatic'> Automatic <br>
+Condition: <br>
+<input type="radio" name="condition" value='new' checked> New
+<input type="radio" name="condition" value='used'> Used <br>
+Description: <br><textarea name="description" rows="10" cols="40" maxlength="5000"></textarea> <br>
+File: <input type="file" name="files" multiple> <br> <br>
+<input type="submit" value="Make listing">
+</form>
+
+{% endblock %}

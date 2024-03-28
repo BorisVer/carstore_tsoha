@@ -1,0 +1,15 @@
+/* General Styles */
+body {
+  margin: auto;
+  max-width:  350px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  background: rgb(173, 173, 171);
+  text-align: center;
+}
+
+/* Headings */
+h1, h2 {
+  margin-top: 30px;
+  text-align: center;
+}
+
