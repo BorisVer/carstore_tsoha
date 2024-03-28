@@ -1,0 +1,4858 @@
+[
+  {
+    "Make": "Acura",
+    "Model": "CL"
+  },
+  {
+    "Make": "Acura",
+    "Model": "ILX"
+  },
+  {
+    "Make": "Acura",
+    "Model": "Integra"
+  },
+  {
+    "Make": "Acura",
+    "Model": "Legend"
+  },
+  {
+    "Make": "Acura",
+    "Model": "MDX"
+  },
+  {
+    "Make": "Acura",
+    "Model": "MDX Sport Hybrid"
+  },
+  {
+    "Make": "Acura",
+    "Model": "NSX"
+  },
+  {
+    "Make": "Acura",
+    "Model": "RDX"
+  },
+  {
+    "Make": "Acura",
+    "Model": "RL"
+  },
+  {
+    "Make": "Acura",
+    "Model": "RLX"
+  },
+  {
+    "Make": "Acura",
+    "Model": "RLX Sport Hybrid"
+  },
+  {
+    "Make": "Acura",
+    "Model": "RSX"
+  },
+  {
+    "Make": "Acura",
+    "Model": "SLX"
+  },
+  {
+    "Make": "Acura",
+    "Model": "TL"
+  },
+  {
+    "Make": "Acura",
+    "Model": "TLX"
+  },
+  {
+    "Make": "Acura",
+    "Model": "TSX"
+  },
+  {
+    "Make": "Acura",
+    "Model": "Vigor"
+  },
+  {
+    "Make": "Acura",
+    "Model": "ZDX"
+  },
+  {
+    "Make": "Alfa Romeo",
+    "Model": "164"
+  },
+  {
+    "Make": "Alfa Romeo",
+    "Model": "4C"
+  },
+  {
+    "Make": "Alfa Romeo",
+    "Model": "4C Spider"
+  },
+  {
+    "Make": "Alfa Romeo",
+    "Model": "Giulia"
+  },
+  {
+    "Make": "Alfa Romeo",
+    "Model": "Spider"
+  },
+  {
+    "Make": "Alfa Romeo",
+    "Model": "Stelvio"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "DB11"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "DB9"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "DB9 GT"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "DBS"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "Rapide"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "Rapide S"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "Vanquish"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "Vanquish S"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "Vantage"
+  },
+  {
+    "Make": "Aston Martin",
+    "Model": "Virage"
+  },
+  {
+    "Make": "Audi",
+    "Model": "100"
+  },
+  {
+    "Make": "Audi",
+    "Model": "80"
+  },
+  {
+    "Make": "Audi",
+    "Model": "90"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A3"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A3 Sportback e-tron"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A4"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A4 (2005.5)"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A4 allroad"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A5"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A5 Sport"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A6"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A6 allroad"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A7"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A8"
+  },
+  {
+    "Make": "Audi",
+    "Model": "Cabriolet"
+  },
+  {
+    "Make": "Audi",
+    "Model": "Q3"
+  },
+  {
+    "Make": "Audi",
+    "Model": "Q5"
+  },
+  {
+    "Make": "Audi",
+    "Model": "Q7"
+  },
+  {
+    "Make": "Audi",
+    "Model": "Q8"
+  },
+  {
+    "Make": "Audi",
+    "Model": "Quattro"
+  },
+  {
+    "Make": "Audi",
+    "Model": "R8"
+  },
+  {
+    "Make": "Audi",
+    "Model": "RS 3"
+  },
+  {
+    "Make": "Audi",
+    "Model": "RS 4"
+  },
+  {
+    "Make": "Audi",
+    "Model": "RS 5"
+  },
+  {
+    "Make": "Audi",
+    "Model": "RS 6"
+  },
+  {
+    "Make": "Audi",
+    "Model": "RS 7"
+  },
+  {
+    "Make": "Audi",
+    "Model": "S3"
+  },
+  {
+    "Make": "Audi",
+    "Model": "S4"
+  },
+  {
+    "Make": "Audi",
+    "Model": "S4 (2005.5)"
+  },
+  {
+    "Make": "Audi",
+    "Model": "S5"
+  },
+  {
+    "Make": "Audi",
+    "Model": "S6"
+  },
+  {
+    "Make": "Audi",
+    "Model": "S7"
+  },
+  {
+    "Make": "Audi",
+    "Model": "S8"
+  },
+  {
+    "Make": "Audi",
+    "Model": "SQ5"
+  },
+  {
+    "Make": "Audi",
+    "Model": "TT"
+  },
+  {
+    "Make": "Audi",
+    "Model": "allroad"
+  },
+  {
+    "Make": "Audi",
+    "Model": "e-tron"
+  },
+  {
+    "Make": "BMW",
+    "Model": "1 Series"
+  },
+  {
+    "Make": "BMW",
+    "Model": "2 Series"
+  },
+  {
+    "Make": "BMW",
+    "Model": "3 Series"
+  },
+  {
+    "Make": "BMW",
+    "Model": "4 Series"
+  },
+  {
+    "Make": "BMW",
+    "Model": "5 Series"
+  },
+  {
+    "Make": "BMW",
+    "Model": "6 Series"
+  },
+  {
+    "Make": "BMW",
+    "Model": "7 Series"
+  },
+  {
+    "Make": "BMW",
+    "Model": "8 Series"
+  },
+  {
+    "Make": "BMW",
+    "Model": "Alpina B7"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M2"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M3"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M4"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M5"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M6"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X1"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X2"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X3"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X4"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5 M"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X6"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X6 M"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X7"
+  },
+  {
+    "Make": "BMW",
+    "Model": "Z3"
+  },
+  {
+    "Make": "BMW",
+    "Model": "Z4"
+  },
+  {
+    "Make": "BMW",
+    "Model": "Z4 M"
+  },
+  {
+    "Make": "BMW",
+    "Model": "Z8"
+  },
+  {
+    "Make": "BMW",
+    "Model": "i3"
+  },
+  {
+    "Make": "BMW",
+    "Model": "i8"
+  },
+  {
+    "Make": "Bentley",
+    "Model": "Arnage"
+  },
+  {
+    "Make": "Bentley",
+    "Model": "Azure"
+  },
+  {
+    "Make": "Bentley",
+    "Model": "Azure T"
+  },
+  {
+    "Make": "Bentley",
+    "Model": "Bentayga"
+  },
+  {
+    "Make": "Bentley",
+    "Model": "Brooklands"
+  },
+  {
+    "Make": "Bentley",
+    "Model": "Continental"
+  },
+  {
+    "Make": "Bentley",
+    "Model": "Flying Spur"
+  },
+  {
+    "Make": "Bentley",
+    "Model": "Mulsanne"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Cascada"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Century"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Enclave"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Encore"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Encore GX"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Envision"
+  },
+  {
+    "Make": "Buick",
+    "Model": "LaCrosse"
+  },
+  {
+    "Make": "Buick",
+    "Model": "LeSabre"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Lucerne"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Park Avenue"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Rainier"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Regal"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Regal Sportback"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Regal TourX"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Rendezvous"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Riviera"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Roadmaster"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Skylark"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Terraza"
+  },
+  {
+    "Make": "Buick",
+    "Model": "Verano"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "ATS"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "ATS-V"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Allante"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Brougham"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "CT4"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "CT5"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "CT6"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "CT6-V"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "CTS"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "CTS-V"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Catera"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "DTS"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "DeVille"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "ELR"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Eldorado"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Escalade"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Escalade ESV"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Escalade EXT"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Fleetwood"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "SRX"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "STS"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Seville"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "Sixty Special"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "XLR"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "XT4"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "XT5"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "XT6"
+  },
+  {
+    "Make": "Cadillac",
+    "Model": "XTS"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "1500 Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "1500 Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "2500 Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "2500 Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "2500 HD Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "2500 HD Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "2500 Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "3500 Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "3500 Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "3500 HD Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "3500 HD Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "3500 Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "APV Cargo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Astro Cargo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Astro Passenger"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Avalanche"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Avalanche 1500"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Avalanche 2500"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Aveo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Beretta"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Blazer"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Bolt EV"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Camaro"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Caprice"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Caprice Classic"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Captiva Sport"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Cavalier"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "City Express"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Classic"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Cobalt"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Colorado Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Colorado Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Colorado Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Corsica"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Corvette"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Cruze"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Cruze Limited"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Equinox"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Express 1500 Cargo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Express 1500 Passenger"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Express 2500 Cargo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Express 2500 Passenger"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Express 3500 Cargo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Express 3500 Passenger"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "G-Series 1500"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "G-Series 2500"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "G-Series 3500"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "G-Series G10"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "G-Series G20"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "G-Series G30"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "HHR"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Impala"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Impala Limited"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Lumina"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Lumina APV"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Lumina Cargo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Lumina Passenger"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Malibu"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Malibu (Classic)"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Malibu Limited"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Metro"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Monte Carlo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Prizm"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "S10 Blazer"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "S10 Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "S10 Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "S10 Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "SS"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "SSR"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 1500 Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 1500 Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 1500 HD Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 1500 Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 2500 HD Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 2500 HD Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 2500 HD Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 3500 Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 3500 Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado (Classic) 3500 Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 1500 Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 1500 Double Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 1500 Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 1500 HD Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 1500 LD Double Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 1500 Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 2500 Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 2500 Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 2500 HD Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 2500 HD Double Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 2500 HD Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 2500 HD Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 2500 Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 3500 Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 3500 Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 3500 HD Crew Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 3500 HD Double Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 3500 HD Extended Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 3500 HD Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 3500 Regular Cab"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Sonic"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Spark"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Spark EV"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Sportvan G10"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Sportvan G20"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Sportvan G30"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Suburban"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Suburban 1500"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Suburban 2500"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Suburban 3500HD"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Tahoe"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Tracker"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "TrailBlazer"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Trailblazer"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Traverse"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Trax"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Uplander Cargo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Uplander Passenger"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Venture Cargo"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Venture Passenger"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Volt"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "200"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "300"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "300M"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Aspen"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Cirrus"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Concorde"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Crossfire"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Fifth Ave"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Grand Voyager"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Imperial"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "LHS"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "LeBaron"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "New Yorker"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "PT Cruiser"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Pacifica"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Pacifica Hybrid"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Prowler"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Sebring"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Town & Country"
+  },
+  {
+    "Make": "Chrysler",
+    "Model": "Voyager"
+  },
+  {
+    "Make": "Daewoo",
+    "Model": "Lanos"
+  },
+  {
+    "Make": "Daewoo",
+    "Model": "Leganza"
+  },
+  {
+    "Make": "Daewoo",
+    "Model": "Nubira"
+  },
+  {
+    "Make": "Daihatsu",
+    "Model": "Charade"
+  },
+  {
+    "Make": "Daihatsu",
+    "Model": "Rocky"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Avenger"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Caliber"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Caravan Cargo"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Caravan Passenger"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Challenger"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Charger"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Colt"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "D150 Club Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "D150 Regular Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "D250 Club Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "D250 Regular Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "D350 Club Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "D350 Regular Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Dakota Club Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Dakota Crew Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Dakota Extended Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Dakota Quad Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Dakota Regular Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Dart"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Daytona"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Durango"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Dynasty"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Grand Caravan Cargo"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Grand Caravan Passenger"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Intrepid"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Journey"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Magnum"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Monaco"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Neon"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Nitro"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 1500 Club Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 1500 Crew Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 1500 Mega Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 1500 Quad Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 1500 Regular Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 2500 Club Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 2500 Crew Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 2500 Mega Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 2500 Quad Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 2500 Regular Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 3500 Club Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 3500 Crew Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 3500 Mega Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 3500 Quad Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 3500 Regular Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram 50 Regular Cab"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Van 1500"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Van 2500"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Van 3500"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Van B150"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Van B250"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Van B350"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Wagon 1500"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Wagon 2500"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Wagon 3500"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Wagon B150"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Wagon B250"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ram Wagon B350"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Ramcharger"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Shadow"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Spirit"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Sprinter 2500 Cargo"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Sprinter 2500 Passenger"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Sprinter 3500 Cargo"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Stealth"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Stratus"
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Viper"
+  },
+  {
+    "Make": "Eagle",
+    "Model": "Premier"
+  },
+  {
+    "Make": "Eagle",
+    "Model": "Summit"
+  },
+  {
+    "Make": "Eagle",
+    "Model": "Talon"
+  },
+  {
+    "Make": "Eagle",
+    "Model": "Vision"
+  },
+  {
+    "Make": "FIAT",
+    "Model": "124 Spider"
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500"
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500 Abarth"
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500L"
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500X"
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500c"
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500c Abarth"
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500e"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "430 Scuderia"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "458 Italia"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "458 Speciale"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "458 Spider"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "488 GTB"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "488 Spider"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "599 GTB Fiorano"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "599 GTO"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "612 Scaglietti"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "812 Superfast"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "California"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "F12berlinetta"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "F430"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "FF"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "GTC4Lusso"
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "Portofino"
+  },
+  {
+    "Make": "Fisker",
+    "Model": "Karma"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Aerostar Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Aerostar Passenger"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Aspire"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Bronco"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Bronco Sport"
+  },
+  {
+    "Make": "Ford",
+    "Model": "C-MAX Energi"
+  },
+  {
+    "Make": "Ford",
+    "Model": "C-MAX Hybrid"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Club Wagon"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Contour"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Crown Victoria"
+  },
+  {
+    "Make": "Ford",
+    "Model": "E150 Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "E150 Passenger"
+  },
+  {
+    "Make": "Ford",
+    "Model": "E150 Super Duty Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "E150 Super Duty Passenger"
+  },
+  {
+    "Make": "Ford",
+    "Model": "E250 Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "E250 Super Duty Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "E350 Super Duty Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "E350 Super Duty Passenger"
+  },
+  {
+    "Make": "Ford",
+    "Model": "EcoSport"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Econoline E150 Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Econoline E150 Passenger"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Econoline E250 Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Econoline E350 Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Econoline E350 Super Duty Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Econoline E350 Super Duty Passenger"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Edge"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Escape"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Escort"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Excursion"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Expedition"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Expedition EL"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Expedition MAX"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Explorer"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Explorer Sport"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Explorer Sport Trac"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F150 (Heritage) Regular Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F150 (Heritage) Super Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F150 Regular Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F150 Super Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F150 SuperCrew Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F250 Crew Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F250 Regular Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F250 Super Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F250 Super Duty Crew Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F250 Super Duty Regular Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F250 Super Duty Super Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F350 Crew Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F350 Regular Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F350 Super Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F350 Super Duty Crew Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F350 Super Duty Regular Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F350 Super Duty Super Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "F450 Super Duty Crew Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Festiva"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Fiesta"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Five Hundred"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Flex"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Focus"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Focus ST"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Freestar Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Freestar Passenger"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Freestyle"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Fusion"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Fusion Energi"
+  },
+  {
+    "Make": "Ford",
+    "Model": "GT"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Mustang"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Probe"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Ranger Regular Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Ranger Super Cab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Ranger SuperCab"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Ranger SuperCrew"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Taurus"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Taurus X"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Tempo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Thunderbird"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Transit 150 Van"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Transit 150 Wagon"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Transit 250 Van"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Transit 350 HD Van"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Transit 350 Van"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Transit 350 Wagon"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Transit Connect Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Transit Connect Cargo Van"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Transit Connect Passenger"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Windstar Cargo"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Windstar Passenger"
+  },
+  {
+    "Make": "Ford",
+    "Model": "ZX2"
+  },
+  {
+    "Make": "Freightliner",
+    "Model": "Sprinter 2500 Crew"
+  },
+  {
+    "Make": "Freightliner",
+    "Model": "Sprinter 3500XD Cargo"
+  },
+  {
+    "Make": "Freightliner",
+    "Model": "Sprinter WORKER Cargo"
+  },
+  {
+    "Make": "Freightliner",
+    "Model": "Sprinter WORKER Passenger"
+  },
+  {
+    "Make": "GMC",
+    "Model": "1500 Club Coupe"
+  },
+  {
+    "Make": "GMC",
+    "Model": "2500 Club Coupe"
+  },
+  {
+    "Make": "GMC",
+    "Model": "2500 HD Club Coupe"
+  },
+  {
+    "Make": "GMC",
+    "Model": "3500 Club Coupe"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Acadia"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Acadia Limited"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Canyon Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Canyon Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Canyon Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Envoy"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Envoy XL"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Envoy XUV"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Hummer EV"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Jimmy"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Rally Wagon 1500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Rally Wagon 2500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Rally Wagon 3500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Rally Wagon G2500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Rally Wagon G3500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Safari Cargo"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Safari Passenger"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Savana 1500 Cargo"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Savana 1500 Passenger"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Savana 2500 Cargo"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Savana 2500 Passenger"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Savana 3500 Cargo"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Savana 3500 Passenger"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 1500 Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 1500 Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 1500 HD Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 1500 Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 2500 Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 2500 HD Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 2500 HD Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 2500 HD Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 3500 Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 3500 Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra (Classic) 3500 Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 1500 Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 1500 Double Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 1500 Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 1500 HD Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 1500 Limited Double Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 1500 Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 2500 Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 2500 Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 2500 HD Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 2500 HD Double Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 2500 HD Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 2500 HD Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 2500 Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 3500 Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 3500 Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 3500 HD Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 3500 HD Double Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 3500 HD Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 3500 HD Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 3500 Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sonoma Club Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sonoma Club Coupe Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sonoma Crew Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sonoma Extended Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sonoma Regular Cab"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Terrain"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Vandura 1500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Vandura 2500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Vandura 3500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Vandura G1500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Vandura G2500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Vandura G3500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Yukon"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Yukon Denali"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Yukon XL"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Yukon XL 1500"
+  },
+  {
+    "Make": "GMC",
+    "Model": "Yukon XL 2500"
+  },
+  {
+    "Make": "Genesis",
+    "Model": "G70"
+  },
+  {
+    "Make": "Genesis",
+    "Model": "G80"
+  },
+  {
+    "Make": "Genesis",
+    "Model": "G90"
+  },
+  {
+    "Make": "Genesis",
+    "Model": "GV80"
+  },
+  {
+    "Make": "Geo",
+    "Model": "Storm"
+  },
+  {
+    "Make": "HUMMER",
+    "Model": "H1"
+  },
+  {
+    "Make": "HUMMER",
+    "Model": "H2"
+  },
+  {
+    "Make": "HUMMER",
+    "Model": "H3"
+  },
+  {
+    "Make": "HUMMER",
+    "Model": "H3T"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Accord"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Accord Crosstour"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Accord Hybrid"
+  },
+  {
+    "Make": "Honda",
+    "Model": "CR-V"
+  },
+  {
+    "Make": "Honda",
+    "Model": "CR-V Hybrid"
+  },
+  {
+    "Make": "Honda",
+    "Model": "CR-Z"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic Type R"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Clarity Electric"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Clarity Fuel Cell"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Clarity Plug-in Hybrid"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Crosstour"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Element"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Fit"
+  },
+  {
+    "Make": "Honda",
+    "Model": "HR-V"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Insight"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Odyssey"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Passport"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Pilot"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Prelude"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Ridgeline"
+  },
+  {
+    "Make": "Honda",
+    "Model": "S2000"
+  },
+  {
+    "Make": "Honda",
+    "Model": "del Sol"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Accent"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Azera"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Elantra"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Elantra GT"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Entourage"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Equus"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Excel"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Genesis"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Genesis Coupe"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Ioniq Electric"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Ioniq Hybrid"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Ioniq Plug-in Hybrid"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Kona"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Kona Electric"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "NEXO"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Palisade"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Santa Fe"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Santa Fe Sport"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Santa Fe XL"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Scoupe"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Sonata"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Sonata Hybrid"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Sonata Plug-in Hybrid"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Tiburon"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Tucson"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Tucson Fuel Cell"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Veloster"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Venue"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Veracruz"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "XG300"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "XG350"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "EX"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "FX"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "G"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "I"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "J"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "JX"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q40"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q50"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q60"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q70"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX30"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX50"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX60"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX70"
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX80"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Amigo"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Ascender"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Axiom"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Hombre Regular Cab"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Hombre Spacecab"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Impulse"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Oasis"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Regular Cab"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Rodeo"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Rodeo Sport"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Spacecab"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Stylus"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "Trooper"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "VehiCROSS"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "i-280 Extended Cab"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "i-290 Extended Cab"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "i-350 Crew Cab"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "i-370 Crew Cab"
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "i-370 Extended Cab"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "E-PACE"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "F-PACE"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "F-TYPE"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "I-PACE"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "S-Type"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "X-Type"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "XE"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "XF"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "XJ"
+  },
+  {
+    "Make": "Jaguar",
+    "Model": "XK"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Cherokee"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Comanche Regular Cab"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Commander"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Compass"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Gladiator"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Grand Cherokee"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Grand Cherokee L"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Grand Wagoneer"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Liberty"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Patriot"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Renegade"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Wrangler"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Wrangler Unlimited"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Amanti"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Borrego"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Cadenza"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Forte"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Forte Koup"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Forte5"
+  },
+  {
+    "Make": "Kia",
+    "Model": "K5"
+  },
+  {
+    "Make": "Kia",
+    "Model": "K900"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Niro"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Niro EV"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Niro Plug-in Hybrid"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Optima"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Optima (2006.5)"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Optima Hybrid"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Optima Plug-in Hybrid"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Rio"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Rondo"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Sedona"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Seltos"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Sephia"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Sorento"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Soul"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Soul EV"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Spectra"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Sportage"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Stinger"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Telluride"
+  },
+  {
+    "Make": "Lamborghini",
+    "Model": "Aventador"
+  },
+  {
+    "Make": "Lamborghini",
+    "Model": "Gallardo"
+  },
+  {
+    "Make": "Lamborghini",
+    "Model": "Huracan"
+  },
+  {
+    "Make": "Lamborghini",
+    "Model": "Murcielago"
+  },
+  {
+    "Make": "Lamborghini",
+    "Model": "Murcielago LP640"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Defender 110"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Defender 90"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Discovery"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Discovery Series II"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Discovery Sport"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Freelander"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "LR2"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "LR3"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "LR4"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Range Rover"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Range Rover Evoque"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Range Rover Sport"
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Range Rover Velar"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "CT"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "ES"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "GS"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "GX"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "HS"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "IS"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "IS F"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "LC"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "LFA"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "LS"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "LX"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "NX"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "RC"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "RX"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "SC"
+  },
+  {
+    "Make": "Lexus",
+    "Model": "UX"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Aviator"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Blackwood"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Corsair"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "MKC"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "MKS"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "MKT"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "MKX"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "MKZ"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Mark LT"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Mark VII"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Mark VIII"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Nautilus"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Navigator"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Navigator L"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Town Car"
+  },
+  {
+    "Make": "Lincoln",
+    "Model": "Zephyr"
+  },
+  {
+    "Make": "Lotus",
+    "Model": "Elise"
+  },
+  {
+    "Make": "Lotus",
+    "Model": "Evora"
+  },
+  {
+    "Make": "Lotus",
+    "Model": "Evora 400"
+  },
+  {
+    "Make": "Lotus",
+    "Model": "Exige"
+  },
+  {
+    "Make": "Lotus",
+    "Model": "Exige S"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "323"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "626"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "929"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "B-Series Cab Plus"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "B-Series Extended Cab"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "B-Series Regular Cab"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-3"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-30"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-5"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-7"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-9"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA2"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA3"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA5"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA6"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MPV"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MX-3"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MX-5"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MX-5 RF"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MX-6"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "Millenia"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "Navajo"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "Protege"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "Protege5"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "RX-7"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "RX-8"
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "Tribute"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Clubman"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Convertible"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Cooper"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Countryman"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Coupe"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Hardtop"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Hardtop 2 Door"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Hardtop 4 Door"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Paceman"
+  },
+  {
+    "Make": "MINI",
+    "Model": "Roadster"
+  },
+  {
+    "Make": "Maserati",
+    "Model": "Ghibli"
+  },
+  {
+    "Make": "Maserati",
+    "Model": "GranSport"
+  },
+  {
+    "Make": "Maserati",
+    "Model": "GranTurismo"
+  },
+  {
+    "Make": "Maserati",
+    "Model": "Levante"
+  },
+  {
+    "Make": "Maserati",
+    "Model": "Quattroporte"
+  },
+  {
+    "Make": "Maybach",
+    "Model": "57"
+  },
+  {
+    "Make": "Maybach",
+    "Model": "62"
+  },
+  {
+    "Make": "McLaren",
+    "Model": "570GT"
+  },
+  {
+    "Make": "McLaren",
+    "Model": "570S"
+  },
+  {
+    "Make": "McLaren",
+    "Model": "650S"
+  },
+  {
+    "Make": "McLaren",
+    "Model": "675LT"
+  },
+  {
+    "Make": "McLaren",
+    "Model": "720S"
+  },
+  {
+    "Make": "McLaren",
+    "Model": "MP4-12C"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "190 E"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "300 CE"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "300 D"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "300 E"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "300 SD"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "300 SE"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "300 SL"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "300 TE"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "400 E"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "400 SE"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "400 SEL"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "500 E"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "500 SEC"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "500 SEL"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "500 SL"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "600 SEC"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "600 SEL"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "600 SL"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "A-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "B-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "C-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "CL-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "CLA"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "CLA-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "CLK-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "CLS"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "CLS-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "E-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "G-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GL-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GLA"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GLA-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GLB"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GLC"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GLC Coupe"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GLE"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GLE Coupe"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GLK-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "GLS"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "M-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG C-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG CLA"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG CLS"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG E-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG G-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG GLA"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG GLC"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG GLC Coupe"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG GLE"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG GLE Coupe"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG GLS"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG GT"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG S-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG SL"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG SLC"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-AMG SLK"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-Maybach S 600"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Mercedes-Maybach S-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Metris Cargo"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Metris Passenger"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Metris WORKER Cargo"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Metris WORKER Passenger"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "R-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "S-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "SL"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "SL-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "SLC"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "SLK"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "SLK-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "SLR McLaren"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "SLS-Class"
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "Sprinter 3500 XD Cargo"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Capri"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Cougar"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Grand Marquis"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Marauder"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Mariner"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Milan"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Montego"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Monterey"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Mountaineer"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Mystique"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Sable"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Topaz"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Tracer"
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Villager"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "3000GT"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Diamante"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Eclipse"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Eclipse Cross"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Endeavor"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Expo"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Galant"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Lancer"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Lancer Evolution"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Mighty Max Macro Cab"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Mighty Max Regular Cab"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Mirage"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Mirage G4"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Montero"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Montero Sport"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Outlander"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Outlander PHEV"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Outlander Sport"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Precis"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Raider Double Cab"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Raider Extended Cab"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "i-MiEV"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "200SX"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "240SX"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "300ZX"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "350Z"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "370Z"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Altima"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Armada"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Frontier Crew Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Frontier King Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Frontier Regular Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "GT-R"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "JUKE"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Kicks"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "King Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "LEAF"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Maxima"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Murano"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "NV1500 Cargo"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "NV200"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "NV200 Taxi"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "NV2500 HD Cargo"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "NV3500 HD Cargo"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "NV3500 HD Passenger"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Pathfinder"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Pathfinder Armada"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Quest"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue Select"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue Sport"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Sentra"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Stanza"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "TITAN Single Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "TITAN XD Crew Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "TITAN XD King Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "TITAN XD Single Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Titan Crew Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Titan King Cab"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Versa"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Versa Note"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Xterra"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "cube"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "88"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "98"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Achieva"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Alero"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Aurora"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Bravada"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Ciera"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Custom Cruiser"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Cutlass"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Cutlass Ciera"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Cutlass Cruiser"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Cutlass Supreme"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Intrigue"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "LSS"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Regency"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Silhouette"
+  },
+  {
+    "Make": "Oldsmobile",
+    "Model": "Toronado"
+  },
+  {
+    "Make": "Panoz",
+    "Model": "Esperante"
+  },
+  {
+    "Make": "Plymouth",
+    "Model": "Acclaim"
+  },
+  {
+    "Make": "Plymouth",
+    "Model": "Breeze"
+  },
+  {
+    "Make": "Plymouth",
+    "Model": "Colt Vista"
+  },
+  {
+    "Make": "Plymouth",
+    "Model": "Laser"
+  },
+  {
+    "Make": "Plymouth",
+    "Model": "Sundance"
+  },
+  {
+    "Make": "Polestar",
+    "Model": "2"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Aztek"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Bonneville"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Firebird"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "G3"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "G5"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "G6"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "G6 (2009.5)"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "G8"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "GTO"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Grand Am"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Grand Prix"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "LeMans"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Montana"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Montana SV6"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Solstice"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Sunbird"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Sunfire"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Torrent"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Trans Sport"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Vibe"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "718 Boxster"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "718 Cayman"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "718 Spyder"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "911"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "928"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "968"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "Boxster"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "Carrera GT"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "Cayenne"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "Cayenne Coupe"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "Cayman"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "Macan"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "Panamera"
+  },
+  {
+    "Make": "Porsche",
+    "Model": "Taycan"
+  },
+  {
+    "Make": "Ram",
+    "Model": "1500 Classic Crew Cab"
+  },
+  {
+    "Make": "Ram",
+    "Model": "1500 Classic Quad Cab"
+  },
+  {
+    "Make": "Ram",
+    "Model": "1500 Classic Regular Cab"
+  },
+  {
+    "Make": "Ram",
+    "Model": "1500 Crew Cab"
+  },
+  {
+    "Make": "Ram",
+    "Model": "1500 Quad Cab"
+  },
+  {
+    "Make": "Ram",
+    "Model": "2500 Mega Cab"
+  },
+  {
+    "Make": "Ram",
+    "Model": "3500 Mega Cab"
+  },
+  {
+    "Make": "Ram",
+    "Model": "C/V"
+  },
+  {
+    "Make": "Ram",
+    "Model": "C/V Tradesman"
+  },
+  {
+    "Make": "Ram",
+    "Model": "ProMaster 1500 Cargo"
+  },
+  {
+    "Make": "Ram",
+    "Model": "ProMaster 2500 Cargo"
+  },
+  {
+    "Make": "Ram",
+    "Model": "ProMaster 3500 Cargo"
+  },
+  {
+    "Make": "Ram",
+    "Model": "ProMaster Cargo Van"
+  },
+  {
+    "Make": "Ram",
+    "Model": "ProMaster City"
+  },
+  {
+    "Make": "Ram",
+    "Model": "ProMaster Window Van"
+  },
+  {
+    "Make": "Rivian",
+    "Model": "R1S"
+  },
+  {
+    "Make": "Rivian",
+    "Model": "R1T"
+  },
+  {
+    "Make": "Rolls-Royce",
+    "Model": "Dawn"
+  },
+  {
+    "Make": "Rolls-Royce",
+    "Model": "Ghost"
+  },
+  {
+    "Make": "Rolls-Royce",
+    "Model": "Phantom"
+  },
+  {
+    "Make": "Rolls-Royce",
+    "Model": "Wraith"
+  },
+  {
+    "Make": "Saab",
+    "Model": "3-Sep"
+  },
+  {
+    "Make": "Saab",
+    "Model": "5-Sep"
+  },
+  {
+    "Make": "Saab",
+    "Model": "9-2X"
+  },
+  {
+    "Make": "Saab",
+    "Model": "9-4X"
+  },
+  {
+    "Make": "Saab",
+    "Model": "9-7X"
+  },
+  {
+    "Make": "Saab",
+    "Model": "900"
+  },
+  {
+    "Make": "Saab",
+    "Model": "9000"
+  },
+  {
+    "Make": "Saturn",
+    "Model": "Astra"
+  },
+  {
+    "Make": "Saturn",
+    "Model": "Aura"
+  },
+  {
+    "Make": "Saturn",
+    "Model": "Ion"
+  },
+  {
+    "Make": "Saturn",
+    "Model": "L-Series"
+  },
+  {
+    "Make": "Saturn",
+    "Model": "Outlook"
+  },
+  {
+    "Make": "Saturn",
+    "Model": "Relay"
+  },
+  {
+    "Make": "Saturn",
+    "Model": "S-Series"
+  },
+  {
+    "Make": "Saturn",
+    "Model": "SKY"
+  },
+  {
+    "Make": "Saturn",
+    "Model": "VUE"
+  },
+  {
+    "Make": "Scion",
+    "Model": "FR-S"
+  },
+  {
+    "Make": "Scion",
+    "Model": "iA"
+  },
+  {
+    "Make": "Scion",
+    "Model": "iM"
+  },
+  {
+    "Make": "Scion",
+    "Model": "iQ"
+  },
+  {
+    "Make": "Scion",
+    "Model": "tC"
+  },
+  {
+    "Make": "Scion",
+    "Model": "xA"
+  },
+  {
+    "Make": "Scion",
+    "Model": "xB"
+  },
+  {
+    "Make": "Scion",
+    "Model": "xD"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Ascent"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "B9 Tribeca"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "BRZ"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Baja"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Crosstrek"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Forester"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Impreza"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Justy"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Legacy"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Loyale"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Outback"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "SVX"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Tribeca"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "WRX"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "XV Crosstrek"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Aerio"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Equator Crew Cab"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Equator Extended Cab"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Esteem"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Forenza"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Grand Vitara"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Kizashi"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Reno"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "SX4"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Samurai"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Sidekick"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Swift"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Verona"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "Vitara"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "X-90"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "XL-7"
+  },
+  {
+    "Make": "Suzuki",
+    "Model": "XL7"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model 3"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model S"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model X"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "4Runner"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "86"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Avalon"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Avalon Hybrid"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "C-HR"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Camry"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Camry Hybrid"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Celica"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Corolla"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Corolla Hatchback"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Corolla Hybrid"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Corolla iM"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Cressida"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Echo"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "FJ Cruiser"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "GR Supra"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Highlander"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Highlander Hybrid"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Land Cruiser"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "MR2"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Matrix"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Mirai"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Paseo"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Previa"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Prius"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Prius Plug-in Hybrid"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Prius Prime"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Prius c"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Prius v"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "RAV4"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "RAV4 Hybrid"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "RAV4 Prime"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Sequoia"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Sienna"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Solara"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Supra"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "T100 Regular Cab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "T100 Xtracab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Tacoma Access Cab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Tacoma Double Cab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Tacoma Regular Cab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Tacoma Xtracab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Tercel"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Tundra Access Cab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Tundra CrewMax"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Tundra Double Cab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Tundra Regular Cab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Venza"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Xtra Cab"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Yaris"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Yaris Hatchback"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Yaris iA"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Arteon"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Atlas"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Atlas Cross Sport"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Beetle"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "CC"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Cabrio"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Corrado"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Eos"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Eurovan"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Fox"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "GLI"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "GTI"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Golf"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Golf Alltrack"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Golf GTI"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Golf III"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Golf R"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Golf SportWagen"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Jetta"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Jetta GLI"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Jetta III"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Jetta SportWagen"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Passat"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Phaeton"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "R32"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Rabbit"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Routan"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Tiguan"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Tiguan Limited"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Touareg"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "Touareg 2"
+  },
+  {
+    "Make": "Volkswagen",
+    "Model": "e-Golf"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "240"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "740"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "850"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "940"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "960"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "C30"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "C70"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "S40"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "S60"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "S70"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "S80"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "S90"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "V40"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "V50"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "V60"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "V70"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "V90"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "XC40"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "XC60"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "XC70"
+  },
+  {
+    "Make": "Volvo",
+    "Model": "XC90"
+  },
+  {
+    "Make": "smart",
+    "Model": "fortwo"
+  },
+  {
+    "Make": "smart",
+    "Model": "fortwo cabrio"
+  },
+  {
+    "Make": "smart",
+    "Model": "fortwo electric drive"
+  },
+  {
+    "Make": "smart",
+    "Model": "fortwo electric drive cabrio"
+  }
+]
