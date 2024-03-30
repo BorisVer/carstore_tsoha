@@ -1,4 +1,8 @@
 -- https://www.postgresql.org/docs/current/datatype-enum.html
+
+
+-- USED COMMANDS AT THE MOMENT --
+
 CREATE TYPE drive_train_options AS ENUM ('Rear Wheel Drive', 'Front Wheel Drive', 'All Wheel Drive')
 CREATE TYPE gas_type_options AS ENUM ('Gasoline', 'Diesel', 'Hybrid', 'Electric')
 CREATE TYPE transmition_options AS ENUM ('Manual', 'Automatic')
@@ -42,6 +46,29 @@ CREATE TABLE car_pictures (
   file_name TEXT 
 );
 
+-- Brands and their models --
+
+CREATE TABLE allBrands (
+  brand_id SERIAL PRIMARY KEY,
+  brand_name TEXT
+);
+
+CREATE TABLE allModels (
+  model_id SERIAL PRIMARY KEY,
+  model_name TEXT,
+  brand_id INTEGER REFERENCES allBrands(brand_id)
+);
+
+
+-- USED COMMANDS STOP HERE --
+
+
+
+
+
+-- NOT YET USED COMMANDS --
+
+
 CREATE TABLE messages (
     message_id SERIAL PRIMARY KEY,
     sender_id INTEGER REFERENCES users(user_id),
@@ -71,18 +98,4 @@ CREATE TABLE userLikedCars (
     liked_id SERIAL PRIMARY KEY,
     user_id INTEGER REFERENCES users(user_id),
     car_id INTEGER REFERENCES cars(car_id),
-);
-
-
--- Brands and their models --
-
-CREATE TABLE allBrands (
-  brand_id SERIAL PRIMARY KEY,
-  brand_name TEXT
-);
-
-CREATE TABLE allModels (
-  model_id SERIAL PRIMARY KEY,
-  model_name TEXT,
-  brand_id INTEGER REFERENCES allBrands(brand_id)
 );

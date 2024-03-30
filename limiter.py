@@ -1,5 +1,6 @@
 from sqlalchemy.sql import text
 import base64
+from re import findall
 from db import db
 
 # Here are all the working functions that get used by the routes.py
@@ -12,9 +13,30 @@ def get_brands():
 
 def get_models(brand):
     # Gets all models for the chosen brand
-    sql = text("SELECT m.model_name FROM allModels m JOIN allBrands b ON m.brand_id = b.brand_id WHERE b.brand_name = :brand")
-    models = [i[0].title() for i in db.session.execute(sql, {"brand": brand}).fetchall()]
-    return models
+    sql = text("SELECT m.model_name FROM allModels m JOIN allBrands b ON m.brand_id = b.brand_id WHERE b.brand_name = :brand ORDER BY m.model_name ASC")
+    models = [i[0] for i in db.session.execute(sql, {"brand": brand}).fetchall()]
+    correct_spelling = []
+    for model in models:
+        correct_spelling.append(spelling(model))
+    return correct_spelling
+
+def spelling(model):
+    # Fixes the spelling so model names are correctly caps (V90, Altima, GT-R)
+    model = model.split(" ")
+    new_model = ""
+    for part in model:
+        if sum(i.isalpha() for i in part) > 3:
+            new_model += part.title()
+        else:
+            for char in part:
+                if char.isalpha():
+                    new_model += char.upper()
+                else:
+                    new_model += char
+        new_model += " "
+    return new_model[:-1]
+            
+
 
 def check_brand(brand, model):
     # Checks that the given brand exists in the database. If it does goes to check_model(), else return error code 1
@@ -170,6 +192,7 @@ def get_listing_info(listing):
     # Using the listings car_id get the files connected to it
     sql = text("SELECT picture_data,file_name FROM car_pictures WHERE car_id = :car_id")
     all_data = [i for i in db.session.execute(sql, {"car_id":car_id}).fetchall()]
+    model = spelling(model)
     return user_id,brand, model,year,mileage,price,drive,horsepower,torque, engine,gas,transmition,register, weight, seating, door,description,is_new,all_data
 
 def get_user_info(user_id):
@@ -182,7 +205,7 @@ def get_user_info(user_id):
     phone = allcontacts[3]
     return first, last, email, phone 
 
-def get_sql_and_input(selected_brand, selected_model, allinfo):
+def get_sql_and_input(selected_brand, selected_model, allinfo, sortby):
         # Create a sql and the sql input for the selected ristrictions with what the search is going to happen 
         allinfo = eval(allinfo)
         minprice = allinfo[0]
@@ -199,14 +222,13 @@ def get_sql_and_input(selected_brand, selected_model, allinfo):
         # For each option we make also the input and add that to the input dict
         sql_where = []
         input = {}
-        if not selected_brand:
+        print(selected_model)
+        if  selected_brand != "False" and selected_brand != "All Brands":
             sql_where.append("brand = :brand")
             input["brand"] = selected_brand.lower()
-            sql_fetch += " WHERE brand = :brand"
-        if not selected_model:
+        if  selected_model != "False" and selected_model != "All Models":
             sql_where.append("model = :model")
             input["model"] = selected_model.lower()
-            sql_fetch += " AND model = :model"
         if minprice:
             sql_where.append("price >= :minprice")
             input["minprice"] = int(minprice)
@@ -235,17 +257,38 @@ def get_sql_and_input(selected_brand, selected_model, allinfo):
             sql_where.append("transmition = :transmition")
             input["transmition"] = int(transmition)
         # If there is a added search add it to the end of the sql_fetch
+        first = True
         for i in sql_where:
-            sql_fetch += " AND " + i
+            if first:
+                sql_fetch += "WHERE " + i
+                first = False
+            else:
+                sql_fetch += " AND " + i
+        # Create the sort by
+        if sortby == "pricedescending":
+            sql_sortby = " ORDER BY price ASC"
+        elif sortby == "priceascending":
+            sql_sortby = " ORDER BY price DESC"
+        elif sortby == "yeardescending":
+            sql_sortby = " ORDER BY year ASC"
+        elif sortby == "yearascending":
+            sql_sortby = " ORDER BY year DESC"
+        elif sortby == "mileagedescending":
+            sql_sortby = " ORDER BY mileage ASC"
+        elif sortby == "mileageascending":
+            sql_sortby = " ORDER BY mileage DESC"
+        sql_fetch += sql_sortby
+        print(sql_fetch)
         return sql_fetch, input
 
 
-def run_search(selected_brand, selected_model, allinfo):
-        sql_fetch, input = get_sql_and_input(selected_brand, selected_model, allinfo)
+def run_search(selected_brand, selected_model, allinfo, sortby):
+        sql_fetch, input = get_sql_and_input(selected_brand, selected_model, allinfo, sortby)
         all_listings = [i for i in db.session.execute(text(sql_fetch), input).fetchall()]
         amount_of_listings = len(all_listings)
         modified_listings = []
-        # Change brand and model with .title() and decode the image for each search
+        print(all_listings)
+        # Decode the image for each search
         for i in all_listings:
             car_id = i[5]
             first_pic = db.session.execute(text("SELECT picture_data FROM car_pictures WHERE car_id = :car_id"), {"car_id":car_id}).fetchone()[0]
@@ -258,5 +301,5 @@ def run_search(selected_brand, selected_model, allinfo):
             new_item[5] = car_id
             modified_listings.append(new_item)
         brand = selected_brand.title()
-        model = selected_model.title()
+        model = spelling(selected_model)
         return brand,model,amount_of_listings,modified_listings

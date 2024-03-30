@@ -54,7 +54,7 @@ def index():
             drive = request.form.get("drive_selector")
             transmition = request.form.get("transmition_selector")
             allinfo = [minprice, maxprice, minyear, maxyear, minmileage,maxmileage,gas,drive,transmition]
-            sortby = "pricedescrending"
+            sortby = "pricedescending"
             return redirect(url_for("search", selected_brand=selected_brand, selected_model=selected_model, allinfo=allinfo, sortby=sortby))
     return render_template("index.html", brands=brands)
 
@@ -67,16 +67,12 @@ def login():
     result = db.session.execute(sql, {"username":username})
     user = result.fetchone()    
     if not user:
-        print("not a user")
-        error = "User or username incorrect"
+        error = "Username or password incorrect"
         return render_template("index.html", brands=brands, error=error)
     else:
         hash_value = user.password
     if check_password_hash(hash_value, password):
         session["username"] = username
-        print("logged in")
-    else:
-        print("wrong password")
     return redirect("/")
 
 # Removes the session login
@@ -133,7 +129,6 @@ def search(selected_brand, selected_model, allinfo, sortby):
 
     if request.method == "POST":
         sortby = request.form.get("sortby")
-        print(sortby)
         return redirect(url_for("search", selected_brand=selected_brand, selected_model=selected_model, allinfo=allinfo, sortby=sortby))
 
     return render_template("search.html", brand=brand, model=model, amount_of_listings=amount_of_listings, all_listings=modified_listings)
@@ -187,6 +182,7 @@ def listing_status_bad(result):
     result = int(result)
     if result == 1:
         failure = "Your listing was not completed because your given brand does not exist. Check try again or fill in 'unknown' into both fields."
+    if result == 2:
         failure = "Your listing was not completed because your given model does not exist. Check try again or fill in 'unknown' into both fields." 
     elif result == 3:
         failure = "Your image filename was incorrect."

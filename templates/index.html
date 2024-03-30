@@ -2,8 +2,6 @@
 
 {% block content %}
 
-<link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
-
 <div class="content">
 
 <h1>Car Store</h1>
@@ -99,6 +97,10 @@
 </div>
 <div class="links">
 
+
+
+
+
 {% if session.username %}
 <p>Your logged in as {{ session.username }}</p>
 <a href="/logout">Log out</a><br>
@@ -107,7 +109,7 @@
 {% else %}
 <p>Login to make a listing</p>
 {% if error %}
-<p>{{ error }}</p>
+<p style="color:red;">{{ error }}</p>
 {% endif %}
 <form action="/login" method="POST">
 <p>Username:<br>

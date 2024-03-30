@@ -5,8 +5,10 @@
 <link rel="stylesheet" href="{{ url_for('static', filename='searchlistings.css') }}">
 
 
-{% if brand == False %}
-<h2> There are a total of {{ amount_of_listings }}</h2>
+{% if brand == "False" %}
+<h2> There are a total of {{ amount_of_listings }} active listings</h2>
+{% elif model == "False" %}
+<h2>{{ brand }} has {{ amount_of_listings }} active listings</h2>
 {% else %}
 <h2>{{ brand }} {{ model }} has {{ amount_of_listings }} active listings</h2>
 {% endif %}

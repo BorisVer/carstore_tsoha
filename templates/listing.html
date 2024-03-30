@@ -1,7 +1,6 @@
 {% extends "layout.html" %}
 
 {% block content %}
-
 <link rel="stylesheet" href="{{ url_for('static', filename='listing.css') }}">
 
 <head>
@@ -11,36 +10,61 @@
 
 <div class="main-info">
 
-  <p>Year: {{ year }}</p>
-  <p>Motor: {{ engine }}L, {{ gas }}</p>
+  <div class="main-left">
+    <p>Year: <b>{{ year }}</b></p>
 
-  <p>Mileage: {{ mileage }} km</p>
+    <p>Motor: <b>{{ engine }}L, {{ gas }}</b></p>
 
-  <p>Drive Train: {{ drive }}</p>
+    <p>Mileage: <b>{{ mileage }}km</b></p>
+  </div>
 
-  <p>Transmition: {{ transmition }}</p>
+  <div class="main-right">
+    <p>Drive Train: <b>{{ drive }}</b></p>
 
-  <p>Condition: {{ condition }}</p>
+    <p>Transmition: <b>{{ transmition }}</b></p>
 
+    <p>Condition: <b>{{ condition }}</b></p>
+  </div>
 </div>
 
+<div class="slideshow-container">
+  {% for image in images %}
+  <div class="mySlides fade">
+    <div class="numbertext">{{ loop.index}} / {{ images|length }}</div>
+    <img src="data:;base64,{{ image }}" style="width:100%"/>
+  </div>
+  {% endfor %}
+
+
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
 {% for image in images %}
-<img src="data:;base64,{{ image }}" />
+<span class="dot" onclick="currentSlide(loop.index)"></span>
 {% endfor %}
+
+
   <h4>Technical Info</h4>
 
-  <p>Register Number: {{ register }}</p>
+<div class="technical-info">
 
-  <p>Horsepower: {{ horsepower}} hp</p>
+  <div class="technical-left">
+  <p>Register Number: <b>{{ register }}</b></p>
 
-  <p>Torque: {{ torque }}</p>
+  <p>Horsepower: <b>{{ horsepower}}hp</b></p>
 
-  <p>Weight: {{ weight }}</p>
+  <p>Torque: <b>{{ torque }}</b></p>
+  </div>
+  <div class="technical-right">
+  <p>Weight: <b>{{ weight }}</b></p>
 
-  <p>Seating Capacity: {{ seating }}</p>
+  <p>Seating Capacity: <b>{{ seating }}</b></p>
 
-  <p>Door count: {{ door }}</p>
-
+  <p>Door count: <b>{{ door }}</b></p>
+</div>
+</div>
 
   <p>Description: {{ description }}</p>
 
@@ -54,6 +78,10 @@
   <a href="/">Go back to the start</a>
 
 
+
   
 </head>
+
+<script src="{{ url_for('static', filename='slideshow.js') }}"></script>
 {% endblock %}
+
