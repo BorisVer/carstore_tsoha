@@ -66,16 +66,19 @@
 </div>
 </div>
 
-  <p>Description: {{ description }}</p>
-
-  <h4>Seller Contacts</h4>
-
-  <p>{{ first }} {{ last }}</p>
-  <p>{{ email }}</p>
-  <p>{{ phone }}</p>
+<div class="description-container">
+  <h4>Description:</h4> 
+  <p class="discription">{{ description }}</p>
+</div>
 
 
-  <a href="/">Go back to the start</a>
+<div class="seller-info">
+  <h4>Seller {{ first }} {{ last }}</h4>
+  <p>Email: {{ email }}</p>
+  <p>Phone number: {{ phone }}</p>
+
+</div>
+
 
 
 

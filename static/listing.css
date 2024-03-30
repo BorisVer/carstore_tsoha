@@ -6,53 +6,37 @@ body {
   text-align: center;
 }
 
-h1 {
-  margin-top: 30px;
-  text-align: center;
-}
-
 h2 {
-  margin-top: 30px;
+  font-weight: 500;
+  font-size: 50px;
+  margin-top: 40px;
   text-align: center;
 }
 
-.main-info {
-  display: flex;
-  justify-content: space-between;
-  padding-bottom: 20px;
-  
+h3 {
+  font-size: 35px;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: 300;
 }
 
-.main-info p {
-  text-align: left;
-  padding-left: 10px;
-}
-
-.main-left, .main-right {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  background-color: rgb(194, 209, 156);
-  border-radius: 5px;
-  border: 1px solid #ddd;
-  width: 48%;
-}
-
-.technical-info {
+.main-info, .technical-info {
   display: flex;
   justify-content: space-between;
   padding-bottom: 20px;
 }
 
-.technical-left, .technical-right {
+.main-info p, .technical-info p {
+  text-align: left;
+  padding-left: 10px;
+}
+
+.main-left, .main-right, .technical-left, .technical-right {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   background-color: rgb(194, 209, 156);
   border-radius: 5px;
   border: 1px solid #ddd;
   width: 48%;
-}
-
-.technical-info p {
-  text-align: left;
-  padding-left: 10px;
 }
 
 .question {
@@ -62,6 +46,17 @@ h2 {
 .answer {
   text-decoration: solid;
 }
+
+.seller-info, .description-container {
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  background-color: rgb(194, 209, 156);
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  width: 100%;
+}
+
 
 /* Using https://www.w3schools.com/howto/howto_js_slideshow.asp as guide*/
 
