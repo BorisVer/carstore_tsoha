@@ -1,0 +1,82 @@
+[
+    {
+        "username": "Hercules",
+        "password": "password1",
+        "email": "herculesdenzel@email.com",
+        "first_name": "Hercules",
+        "last_name": "Denzel",
+        "phone_number": "+12345678"
+    },
+    {
+        "username": "David",
+        "password": "password2",
+        "email": "davidhadaway@email.com",
+        "first_name": "David",
+        "last_name": "Hadaway",
+        "phone_number": "+88888890"
+    },
+    {
+        "username": "Dan",
+        "password": "password3",
+        "email": "danfattore@email.com",
+        "first_name": "Dan",
+        "last_name": "Fattore",
+        "phone_number": "+628437109"
+    },
+    {
+        "username": "Alicia",
+        "password": "password4",
+        "email": "aliciajohnson@email.com",
+        "first_name": "Alicia",
+        "last_name": "Johnson",
+        "phone_number": "+1234567890"
+    },
+    {
+        "username": "Marcus",
+        "password": "password5",
+        "email": "marcuswright@email.com",
+        "first_name": "Marcus",
+        "last_name": "Wright",
+        "phone_number": "+987654321"
+    },    
+    {
+        "username": "Emily",
+        "password": "password6",
+        "email": "emilytaylor@email.com",
+        "first_name": "Emily",
+        "last_name": "Taylor",
+        "phone_number": "+1122334455"
+    },    
+    {
+        "username": "Nathan",
+        "password": "password7",
+        "email": "nathananderson@email.com",
+        "first_name": "Nathan",
+        "last_name": "Anderson",
+        "phone_number": "+9988776655"
+    },    
+    {
+        "username": "Sophie",
+        "password": "password8",
+        "email": "sophiebrown@email.com",
+        "first_name": "Sophie",
+        "last_name": "Brown",
+        "phone_number": "+3344556677"
+    },
+    {
+        "username": "Oliver",
+        "password": "password9",
+        "email": "olivermartinez@email.com",
+        "first_name": "Oliver",
+        "last_name": "Martinez",
+        "phone_number": "+7766554433"
+    }, 
+    {
+        "username": "Isabella",
+        "password": "password10",
+        "email": "isabellagarcia@email.com",
+        "first_name": "Isabella",
+        "last_name": "Garcia",
+        "phone_number": "+1122334455"
+    }
+]

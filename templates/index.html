@@ -10,7 +10,7 @@
 <h2>Look for a car</h2>
 
 <div class="search">
-<form action="." method="post">
+<form id="brand_selector_form" action="." method="post">
 
   <label for="brand">Brand:</label>
 
@@ -27,11 +27,7 @@
     {% endfor %}
     <option value="Unknown">Unknown</option>
   </select>
-
-
-  <script type="text/javascript">
-    document.getElementById('brand_selector').value = "{{ selected_brand }}";
-  </script>
+  <input type="hidden" id="selected_brand" name="selected_brand"> 
 
 
   <button type="submit" name="submit_brand">Search available models</button>
@@ -123,4 +119,15 @@
 <br>
 
 </div>
+
+
+<script type="text/javascript">
+  function submitBrandSelection() {
+    document.getElementById('brand_selector_form').submit();
+  }
+</script>
+
+<script type="text/javascript">
+  document.getElementById('brand_selector').value = "{{ selected_brand }}";
+</script>
 {% endblock %}

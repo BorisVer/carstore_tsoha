@@ -1,6 +1,5 @@
 from sqlalchemy.sql import text
 import base64
-from re import findall
 from db import db
 
 # Here are all the working functions that get used by the routes.py
@@ -266,17 +265,17 @@ def get_sql_and_input(selected_brand, selected_model, allinfo, sortby):
                 sql_fetch += " AND " + i
         # Create the sort by
         if sortby == "pricedescending":
-            sql_sortby = " ORDER BY price ASC"
-        elif sortby == "priceascending":
             sql_sortby = " ORDER BY price DESC"
+        elif sortby == "priceascending":
+            sql_sortby = " ORDER BY price ASC"
         elif sortby == "yeardescending":
-            sql_sortby = " ORDER BY year ASC"
-        elif sortby == "yearascending":
             sql_sortby = " ORDER BY year DESC"
+        elif sortby == "yearascending":
+            sql_sortby = " ORDER BY year ASC"
         elif sortby == "mileagedescending":
-            sql_sortby = " ORDER BY mileage ASC"
-        elif sortby == "mileageascending":
             sql_sortby = " ORDER BY mileage DESC"
+        elif sortby == "mileageascending":
+            sql_sortby = " ORDER BY mileage ASC"
         sql_fetch += sql_sortby
         print(sql_fetch)
         return sql_fetch, input
@@ -291,6 +290,7 @@ def run_search(selected_brand, selected_model, allinfo, sortby):
         # Decode the image for each search
         for i in all_listings:
             car_id = i[5]
+            print(car_id)
             first_pic = db.session.execute(text("SELECT picture_data FROM car_pictures WHERE car_id = :car_id"), {"car_id":car_id}).fetchone()[0]
             first_pic_data = first_pic
             encoded_data = base64.b64encode(first_pic_data).decode("ascii")

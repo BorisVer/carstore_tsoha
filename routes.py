@@ -20,9 +20,17 @@ from werkzeug.security import check_password_hash, generate_password_hash
 
 
 # Check if the brands are added to the table brands, this is only run the first time the website is opened
-brand_checker = db.session.execute(text("SELECT * FROM allbrands")).fetchall()
-if len(brand_checker) == 0:
+try:
+    db.session.execute(text("SELECT * FROM allmodels"))
+except:
     starter.make_brands_models()
+
+    # Comment out this line if you DONT want to have automatically added a few cars and users to the database at the first startup
+    starter.make_basics_database()
+    # Comment the line above
+
+
+
 
 # Get all brands
 brands = limiter.get_brands()
@@ -35,6 +43,7 @@ def index():
         if "submit_brand" in request.form:
             selected_brand = request.form.get('brand_selector')
             models = limiter.get_models(selected_brand.lower())
+
             return render_template("index.html", brands=brands, models=models, selected_brand=selected_brand)
         # Gets all the info inputed and moves to the search part
         elif "submit_all" in request.form:
@@ -199,6 +208,7 @@ def listing(listing_id):
     first, last, email, phone = limiter.get_user_info(user_id)
     images = []
     for data in all_data:
+        print(data)
         images.append(base64.b64encode(data[0]).decode('ascii'))
         #file_name = data[1]
     if is_new:

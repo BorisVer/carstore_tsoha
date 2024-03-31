@@ -1,0 +1,128 @@
+[
+    {
+      "car_id": 1,
+      "picture_path": "static/images/volvo_s60_1.jpeg",
+      "file_name": "volvo_s60_1.jpeg"
+    },
+    {
+      "car_id": 1,
+      "picture_path": "static/images/volvo_s60_2.jpeg",
+      "file_name": "volvo_s60_2.jpeg"
+    },
+    {
+      "car_id": 1,
+      "picture_path": "static/images/volvo_s60_3.jpeg",
+      "file_name": "volvo_s60_3.jpeg"
+    },
+    {
+      "car_id": 2,
+      "picture_path": "static/images/nissan_altima.jpeg",
+      "file_name": "altima.jpeg"
+    },
+    {
+      "car_id": 2,
+      "picture_path": "static/images/nissan_altima_2.jpeg",
+      "file_name": "altima_2.jpeg"
+    },
+    {
+      "car_id": 3,
+      "picture_path": "static/images/volvo_v60.jpeg",
+      "file_name": "volvo_v60.jpeg"
+    },
+    {
+      "car_id": 3,
+      "picture_path": "static/images/volvo_v60_2.jpeg",
+      "file_name": "volvo_v60_2.jpeg"
+    },
+    {
+      "car_id": 4,
+      "picture_path": "static/images/nissan_altima_3.jpeg",
+      "file_name": "altima_3.jpeg"
+    },
+    {
+      "car_id": 4,
+      "picture_path": "static/images/nissan_altima_4.jpeg",
+      "file_name": "altima_4.jpeg"
+    },
+    {
+      "car_id": 5,
+      "picture_path": "static/images/volvo_s60_3.jpeg",
+      "file_name": "volvo_s60_3.jpeg"
+    },
+    {
+      "car_id": 5,
+      "picture_path": "static/images/volvo_s60_1.jpeg",
+      "file_name": "volvo_s60_1.jpeg"
+    },
+    {
+      "car_id": 5,
+      "picture_path": "static/images/volvo_s60_4.jpeg",
+      "file_name": "volvo_s60_4.jpeg"
+    },
+    {
+      "car_id": 5,
+      "picture_path": "static/images/volvo_s60_5.jpeg",
+      "file_name": "volvo_s60_2.jpeg"
+    },
+    {
+      "car_id": 5,
+      "picture_path": "static/images/volvo_s60_2.jpeg",
+      "file_name": "volvo_s60_2.jpeg"
+    },
+    {
+      "car_id": 6,
+      "picture_path": "static/images/nissan_altima_3.jpeg",
+      "file_name": "altima_3.jpeg"
+    },
+    {
+      "car_id": 6,
+      "picture_path": "static/images/nissan_altima_6.jpeg",
+      "file_name": "altima_6.jpeg"
+    },
+    {
+      "car_id": 7,
+      "picture_path": "static/images/volvo_v60_2.jpeg",
+      "file_name": "volvo_v60.jpeg"
+    },
+    {
+      "car_id": 7,
+      "picture_path": "static/images/volvo_v60.jpeg",
+      "file_name": "volvo_v60_2.jpeg"
+    },
+    {
+      "car_id": 8,
+      "picture_path": "static/images/200sx.jpeg",
+      "file_name": "200sx.jpeg"
+    },
+    {
+      "car_id": 8,
+      "picture_path": "static/images/200sx_2.jpeg",
+      "file_name": "200sx_2.jpeg"
+    },
+    {
+      "car_id": 9,
+      "picture_path": "static/images/volvo_s60_2.jpeg",
+      "file_name": "volvo_s60_2.jpeg"
+    },
+    {
+      "car_id": 9,
+      "picture_path": "static/images/volvo_s60_1.jpeg",
+      "file_name": "volvo_s60_1.jpeg"
+    },
+    {
+      "car_id": 9,
+      "picture_path": "static/images/volvo_s60_3.jpeg",
+      "file_name": "volvo_s60_3.jpeg"
+    },
+    {
+      "car_id": 10,
+      "picture_path": "static/images/200sx_3.jpeg",
+      "file_name": "200sx_3.jpeg"
+    },
+    {
+      "car_id": 10,
+      "picture_path": "static/images/200sx_4.jpeg",
+      "file_name": "200sx_4.jpeg"
+    }
+]
+  
