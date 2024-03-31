@@ -15,5 +15,5 @@ Todo
 - make it so after making a user it automatically asks for info, and show current info in the adding info tab
 
 To test
-- everyting should automatically start upon running the website for the first time. The starter.py is called the first time and makes all needed table and inserts all needed info from the start from the 4 json files
-- in the routes.py you can disable the second part that creates 10 users and 10 cars for sale if needed for some reason
+- the starter.py file is called upon first lauch and will create all needed tables and insert needed data into them so website should be usable directly
+- there is also a second part run upon first lauch that adds 10 users and 10 cars to the website, this can be disabled by comenting out that part of the code if needed, routes.py : line 20
