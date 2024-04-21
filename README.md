@@ -10,10 +10,10 @@ A car sale website, where users can
   
 To run
 - Clone the repo to your computer and create a .env file into it. insert this into the .env file:
-  
-  > DATABASE_URL=<local-address-of-the-database>
-  > SECRET_KEY=<secret-key>
-
+```
+  DATABASE_URL=<local-address-of-the-database>
+  SECRET_KEY=<secret-key>
+```
 - Next run these inside the repo clone:
 
  - python3 -m venv venv
