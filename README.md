@@ -15,15 +15,15 @@ To run
   SECRET_KEY=<secret-key>
 ```
 - Next run these inside the repo clone:
-
- - python3 -m venv venv
- - source venv/bin/activate
- - pip install -r ./requirements.txt
-
+```
+  python3 -m venv venv
+  source venv/bin/activate
+  pip install -r ./requirements.txt
+```
 - Now you can run the code with:
-
+```
   flask run
-
+```
 Aditional Info
 - the starter.py file is called upon first lauch and will create all needed tables and insert needed data into them so website should be usable directly
 - there is also a second part run upon first lauch that adds 10 users and 10 cars to the website, this can be disabled by comenting out that part of the code if needed, routes.py : line 20
